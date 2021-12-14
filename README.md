@@ -44,6 +44,15 @@ This project exists thanks to all the **people who contribute**.
 
 Please note that Open Source Design has a [Contributor Code of Conduct](https://github.com/Dezenix/.github/blob/main/CODE_OF_CONDUCT.md). By participating in this project online or at events you agree to abide by its terms.
 
+## Slider with shimmer effect
+
+
+https://user-images.githubusercontent.com/61725413/145948497-678be4c9-05fd-4e3f-b805-8f1ebff46401.mp4
+
+
+
+
+
 ## 📜 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) © Dezenix
